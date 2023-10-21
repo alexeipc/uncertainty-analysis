@@ -17,6 +17,7 @@ python ui.py
 ```
 
 ## Features
+![GUI](https://github.com/alexeipc/uncertainty-analysis/blob/main/gui.png)
 
 * Add variable: click on add variable (uncertainties must be seperated with value by "+-")
 * Change variable's name: click on the label with the variable's name
