@@ -3,7 +3,7 @@
 ## Motivation
 I came up with this idea while doing uncertainty analysis for my Physics Lab report. \
 This is just a quadrature addition for function *f(a,b,...,z)*:
-$$\delta_f = \sqrt{\delta_{fa}+\delta_{fb}+...+\delta_{fz}}$$
+$$\delta_f = \sqrt{\delta_{fa}^2+\delta_{fb}^2+...+\delta_{fz}^2}$$
 
 
 ## Implementation
